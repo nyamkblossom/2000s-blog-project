@@ -8,7 +8,11 @@ h1 {
 
 
 
-
+body {
+    background-color:#784137;
+    color: #D64D5B;
+    font-family: Arial, sans-serif;
+}
 
 h1 {
 	color: #684C3B;
@@ -22,7 +26,7 @@ h1:hover {
 	color:#ED8CA6;
 }
  
-background-color:#996140 
+              background-color:#996140 
 
 h2: {
 	color:#7BE0C3;
